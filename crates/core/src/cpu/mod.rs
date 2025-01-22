@@ -9,3 +9,7 @@
 //! - <https://www.copetti.org/writings/consoles/game-boy/#cpu>
 //! - <https://gist.github.com/SonoSooS/c0055300670d678b5ae8433e20bea595>
 //! - <http://www.bitsavers.org/components/sharp/_dataBooks/1996_Sharp_Microcomputer_Data_Book.pdf>
+
+mod registers;
+
+pub use registers::{Flags, Registers};
