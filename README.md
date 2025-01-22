@@ -1,2 +1,3 @@
 # Liam
-Game Boy emulator written in Rust 🦀
+
+A Game Boy emulator written in Rust 🦀.
