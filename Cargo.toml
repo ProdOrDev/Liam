@@ -1,7 +1,5 @@
 [workspace]
-members = [
-  "crates/core"
-]
+members = []
 resolver = "2"
 
 [workspace.lints.rust]
